@@ -1,4 +1,4 @@
-- 👋 Hiya, I'm interested in FOSS music/art and communication software
+- 👋 Hiya, I'm interested in free/open music/art and communication/archival software
 - 🔭 I’m currently working on [libreav.org](https://libreav.org) and [TnS Wiki](https://wiki.thingsandstuff.org)
 - 🌱 I’m currently learning how to DJ using [Mixxx](https://mixxx.org)
 - 👯 I’m looking to collaborate on libreav.org, [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki), [LV2 wiki](https://github.com/lv2/lv2/wiki)
