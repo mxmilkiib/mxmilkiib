@@ -8,5 +8,5 @@
 - 💭 Dreaming about the upcoming year of the Libre Audio Workstation, an inverted DAW with a JACK/PipeWire, LV2, NSM, etc.
 - ✨ Waiting for the Matrix/Fediverse/SOLID Web 3.0
 - 😄 Pronouns: they/them
-- 📫 How to reach me: Libre.Chat IRC
+- 📫 How to reach me: Libera.Chat IRC
 - ⚡ Possibly get Signal app?
