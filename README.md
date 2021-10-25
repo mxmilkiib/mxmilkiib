@@ -5,8 +5,8 @@
 - 🤔 Trying to help popularise [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701), [DPF](https://github.com/DISTRHO/DPF), and [Seq66](https://github.com/ahlstromcj/seq66)
 - 👯 Seeking the participation of folk in improving [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki), [LV2 wiki](https://github.com/lv2/lv2/wiki), and libreav.org
 - ❓ Ask me about JACK/LV2 CV, Linux music apps/plugins, Murray Bookchin
-- 💭 Dreaming about the upcoming year of the Libre Audio Workstation, an inverted DAW with a JACK/PipeWire, LV2, NSM, etc.
-- ✨ Waiting for the Matrix/Fediverse/SOLID Web 3.0
+- 💭 Dreaming about the upcoming year of the Libre Audio Workstation; an inverted DAW assembled with elements of JACK/PipeWire, NSM, LV2, OSC, etc.
+- ✨ Waiting for the Matrix/Fediverse/SOLID Web 3.0 comms rerevolution
 - 😄 Pronouns: they/them
 - 📫 How to reach me: Libera.Chat IRC
 - ⚡ Possibly get Signal app?
