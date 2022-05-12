@@ -6,6 +6,7 @@
 - 👯 Seeking participation of folk in improving [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki), [LV2 wiki](https://github.com/lv2/lv2/wiki), and libreav.org
 - ❓ Ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, Murray Bookchin, festival work, dancing 
 - 💭 Dreaming about the upcoming year of the Libre Audio Workstation; an inverted DAW assembled with elements of JACK/PipeWire, NSM, LV2, OSC, etc.
+- 👎 Aiming to divest my life of proprietory systems (e.g. avoiding Discord)
 - ✨ Waiting for the Matrix/Fediverse/SOLID Web 3.0 comms rerevolution
 - 😄 Pronouns: they/them
 - 📫 How to reach me: Libera.Chat IRC
