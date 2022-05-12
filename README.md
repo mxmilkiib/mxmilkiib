@@ -1,10 +1,10 @@
-- 👋 Hiya, I'm interested in free/open music/art and communication/archival software
-- 🔭 I’m sometimes working on [libreav.org](https://libreav.org) and [TnS Wiki](https://wiki.thingsandstuff.org)
-- 🌱 I’m currently learning how to DJ (using [Mixxx](https://mixxx.org)) and produce music (using FOSS)
-- 💬 Promoting #lad, #jack and #lv2 for FOSS audio developers. Also #libreav, and the Matrix bridges to these IRC channels
-- 🤔 Trying to help popularise [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701), [DPF](https://github.com/DISTRHO/DPF), and [Seq66](https://github.com/ahlstromcj/seq66)
-- 👯 Seeking the participation of folk in improving [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki), [LV2 wiki](https://github.com/lv2/lv2/wiki), and libreav.org
-- ❓ Ask me about JACK/LV2 CV, Linux music apps/plugins, Murray Bookchin
+- 👋 Hiya, I'm interested in free/open music/art and data portability in relation to communication software
+- 🔭 I’m slowly working on [libreav.org](https://libreav.org), and keeping notes on everything on [TnS Wiki](https://wiki.thingsandstuff.org)
+- 🌱 I’m currently learning how to DJ (using [Mixxx](https://mixxx.org)) and produce music (DAW-less FOSS only)
+- 💬 Promoting #lad, #jack and #lv2 for FOSS audio developers. Also #libreav for release announcements, and Matrix
+- 🤔 Wondering why [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) isn't more popular, suggesting [DPF](https://github.com/DISTRHO/DPF), and planning around [Seq66](https://github.com/ahlstromcj/seq66)
+- 👯 Seeking participation of folk in improving [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki), [LV2 wiki](https://github.com/lv2/lv2/wiki), and libreav.org
+- ❓ Ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, Murray Bookchin, festival work, dancing 
 - 💭 Dreaming about the upcoming year of the Libre Audio Workstation; an inverted DAW assembled with elements of JACK/PipeWire, NSM, LV2, OSC, etc.
 - ✨ Waiting for the Matrix/Fediverse/SOLID Web 3.0 comms rerevolution
 - 😄 Pronouns: they/them
