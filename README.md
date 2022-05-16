@@ -1,4 +1,4 @@
-- 👋 Hiya, I'm interested in free/open music/art and data portability in relation to communication software
+- 👋 Hiya, I'm interested in free/open music/art/communication software and related [data portability](https://en.wikipedia.org/wiki/Data_portability)
 - 🔭 I’m slowly working on [libreav.org](https://libreav.org), and keeping notes on everything on [TnS Wiki](https://wiki.thingsandstuff.org)
 - 🌱 I’m currently learning how to DJ (using [Mixxx](https://mixxx.org)) and produce music (DAW-less FOSS only)
 - 💬 Promoting #lad, #jack and #lv2 for FOSS audio developers. Also #libreav for release announcements, and Matrix
