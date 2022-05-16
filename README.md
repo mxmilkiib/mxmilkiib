@@ -1,7 +1,7 @@
 - 👋 Hiya, I'm interested in free/open music/art/communication software and related [data portability](https://en.wikipedia.org/wiki/Data_portability)
 - 🔭 I’m slowly working on [libreav.org](https://libreav.org), and keeping notes on everything on [TnS Wiki](https://wiki.thingsandstuff.org)
 - 🌱 I’m currently learning how to DJ (using [Mixxx](https://mixxx.org)) and produce music (DAW-less FOSS only)
-- 💬 Promoting #lad, #jack and #lv2 for FOSS audio developers. Also #libreav for release announcements, and Matrix
+- 💬 Promoting #lad, #jack and #lv2 IRC for FOSS audio developers, or the Matrix bridges. Also #libreav for release announcements.
 - 🤔 Wondering why [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) isn't more popular, suggesting [DPF](https://github.com/DISTRHO/DPF), and planning around [Seq66](https://github.com/ahlstromcj/seq66)
 - 👯 Seeking participation of folk in improving [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki), [LV2 wiki](https://github.com/lv2/lv2/wiki), and libreav.org
 - ❓ Ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, Murray Bookchin, festival work, dancing 
