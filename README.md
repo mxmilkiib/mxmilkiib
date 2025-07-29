@@ -11,7 +11,7 @@
     - OSC
 - ⚙️ Coding a set of Mixxx controller scripts for 
     - [Novation Launchpad Pro MK3](https://github.com/mxmilkiib/mixxx-launchpad-pro-mk3-milkii)
-    - [Reloop Beatmix 2/4](https://github.com/mxmilkiib/mixxx-beatmix-2-4-milkii)
+    - [Reloop Beatmix 2/4](https://github.com/mxmilkiib/mixxx-reloop-beatmix-2-4-milkii)
     - [Akai MPD218](https://github.com/mxmilkiib/mixxx-akai-mpd218-milkii)
     - [Korg nanoKONTROL 2](https://github.com/mxmilkiib/mixxx-korg-nanokontrol-2-milkii)
 - 🤔 Suggesting [DPF](https://github.com/DISTRHO/DPF) as a plugin framwork, and 
