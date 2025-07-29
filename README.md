@@ -14,12 +14,12 @@
     - [Reloop Beatmix 2/4](https://github.com/mxmilkiib/mixxx-reloop-beatmix-2-4-milkii)
     - [Akai MPD218](https://github.com/mxmilkiib/mixxx-akai-mpd218-milkii)
     - [Korg nanoKONTROL 2](https://github.com/mxmilkiib/mixxx-korg-nanokontrol-2-milkii)
-- 🤔 Suggesting [DPF](https://github.com/DISTRHO/DPF) as a plugin framwork, and 
-- 👯 Noting the [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki) and [LV2 wiki](https://github.com/lv2/lv2/wiki)
+- 🤔 Suggesting [DPF](https://github.com/DISTRHO/DPF) as a plugin framework for developers
+- 💭 Noting the [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki) and [LV2 wiki](https://github.com/lv2/lv2/wiki)
 - ❓ Ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, festival work, dancing 
-- 💭 Dreaming about the upcoming year of the ; an  with elements of JACK/PipeWire, NSM, LV2, OSC, etc.
-- 👎 Aiming to divest my life of proprietory systems (e.g. avoiding Discord)
-- ✨ Waiting for the postpost Matrix/Fediverse/SOLID Web 3.0 comms rerevolution
+- ✊ Aiming to divest my life of proprietory systems (e.g. avoiding Discord)
+- ✨ Waiting for the postpost Matrix/Fediverse/BlueSky/SOLID Web 3.0 comms rerevolution
+- ☁️ Dreaming about lefty/radical organisational praxis
 - 😄 Pronouns: they/them
 - 📫 How to reach me: idk
 - ⚡ Possibly get Signal app?
