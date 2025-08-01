@@ -1,13 +1,13 @@
-- 👋 Hiya, I'm interested in free/open music/art/communication software and related [data portability](https://en.wikipedia.org/wiki/Data_portability)
-- 🌱 Learning to DJ with [Mixxx](https://mixxx.org) ([code](https://github.com/mixxxdj/mixxx))
+- 👋 Hiya, I'm interested in free/open music/art/communication software and [data portability](https://en.wikipedia.org/wiki/Data_portability)
+- 🌱 Learning to DJ with [Mixxx](https://mixxx.org) ([code](https://github.com/mixxxdj/mixxx)) and deere-redo (my 16-hotcue Deere theme hack)
 - 👣 Working towards an inverted DAW and a combination of DJing, live, production, and AV
     - Libre Audio Workstation
     - FOSS-only
     - DAW-less
     - [Seq66](https://github.com/ahlstromcj/seq66) - looping MIDI patterns
-    - [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) - for modular 
+    - [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) - for modular/semi-modular synthesis
     - PipeWire 
-    - NSM
+    - [NSM](https://new-session-manager.jackaudio.org)
     - OSC
 - ⚙️ Coding a set of Mixxx controller scripts for 
     - [Novation Launchpad Pro MK3](https://github.com/mxmilkiib/mixxx-launchpad-pro-mk3-milkii)
