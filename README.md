@@ -18,9 +18,13 @@
 - 💭 Noting the [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki) and [LV2 wiki](https://github.com/lv2/lv2/wiki)
 - ❓ Ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, festival work, dancing 
 - ✊ Aiming to divest my life of proprietory systems (e.g. avoiding Discord)
-- ✨ Waiting for the postpost Matrix/Fediverse/BlueSky/SOLID Web 3.0 comms rerevolution
+- ✨ Waiting for the postpost [Matrix](https://matrix.org)/[Fediverse](https://fediverse.party/)/[BlueSky](https://atproto.com/)/[SOLID](https://atproto.com) Web 3.0 comms rerevolution
 - ☁️ Dreaming about lefty/radical organisational praxis
+    - Post-scarcity Anarchism
+    - Consensus w/ good facilitation
+    - Radical transparency
 - 😄 Pronouns: they/them
+    - don't force a gender on me, cheers 
 - 📫 How to reach me: idk
 - ⚡ Possibly get Signal app?
 - ✊ google Murray Bookchin
