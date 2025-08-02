@@ -2,12 +2,13 @@
 - 🌱 Learning to DJ with [Mixxx](https://mixxx.org) ([code](https://github.com/mixxxdj/mixxx)) and deere-redo (my 16-hotcue Deere theme hack)
 - 👣 Working towards an inverted DAW and a combination of DJing, live, production, and AV
     - Libre Audio Workstation
-    - FOSS-only
+    - [FLOSS](https://wiki.snowdrift.coop/about/free-libre-open)-only
     - DAW-less
     - [Seq66](https://github.com/ahlstromcj/seq66) - looping MIDI patterns
     - [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) - for modular/semi-modular synthesis
-    - PipeWire 
+    - [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/home) 
     - [NSM](https://new-session-manager.jackaudio.org)
+    - [Ableton Link](https://ableton.github.io/link)
     - OSC
 - ⚙️ Coding a set of Mixxx controller scripts for 
     - [Novation Launchpad Pro MK3](https://github.com/mxmilkiib/mixxx-launchpad-pro-mk3-milkii)
