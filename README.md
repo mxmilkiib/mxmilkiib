@@ -36,7 +36,7 @@
 - 😄 like, philosophy
     - pronouns: they/them (am an emby)
     - I'm not into other people making up a gender for me
-    - I choose my own conditioning, metaphor, behaviour, body, magick, shit
+    - I choose my own conditioning, metaphor, behaviour, body, magick, shit, or at least try to notice it
     - nvc, radical honesty (heart on sleeve), early Buddhist texts, non-dualism, stoicism, ethical hedonism, post-Cartesian, humanism, eco-phenomenology, process, relational, 4/5E, post-post-lol-structuralism, a vauge form of [Bayesianism reasoning](https://www.lesswrong.com/posts/XCwPQzoe9hmQikMiY/bayesianism-for-humans), things n stuff that record and transmit ways for humans to understand and be happy, together or apart
 - 📫 how to reach me: idk
 - ⚡ possibly get Signal app? Progress/transform/process some way?
