@@ -1,31 +1,43 @@
-- 👋 Hiya, I'm interested in free/open music/art/communication software and [data portability](https://en.wikipedia.org/wiki/Data_portability)
-- 🌱 Learning to DJ with [Mixxx](https://mixxx.org) ([code](https://github.com/mixxxdj/mixxx)) and deere-redo (my 16-hotcue Deere theme hack)
-- 👣 Working towards an inverted DAW and a combination of DJing, live, production, and AV
-    - Libre Audio Workstation
-    - [FLOSS](https://wiki.snowdrift.coop/about/free-libre-open)-only
-    - DAW-less
-    - [Seq66](https://github.com/ahlstromcj/seq66) - looping MIDI patterns
-    - [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) - for modular/semi-modular synthesis
-    - [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/home) 
-    - [NSM](https://new-session-manager.jackaudio.org)
-    - [Ableton Link](https://ableton.github.io/link)
-    - OSC
-- ⚙️ Coding a set of Mixxx controller scripts for 
+- 👋 hey!
+    - I'm interested in free/open culture, music/art/communication, software, [data portability](https://en.wikipedia.org/wiki/Data_portability), &c
+    - Ednburruh, Scoh'land
+- 🌱 learning to DJ with [Mixxx](https://mixxx.org) ([repo](https://github.com/mixxxdj/mixxx)) (
+- ⚙️ coding up a set of scripts for how my MIDI controllers can interact with Mixxx
     - [Novation Launchpad Pro MK3](https://github.com/mxmilkiib/mixxx-launchpad-pro-mk3-milkii)
     - [Reloop Beatmix 2/4](https://github.com/mxmilkiib/mixxx-reloop-beatmix-2-4-milkii)
     - [Akai MPD218](https://github.com/mxmilkiib/mixxx-akai-mpd218-milkii)
     - [Korg nanoKONTROL 2](https://github.com/mxmilkiib/mixxx-korg-nanokontrol-2-milkii)
-- 🤔 Suggesting [DPF](https://github.com/DISTRHO/DPF) as a plugin framework for developers
-- 💭 Noting the [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki) and [LV2 wiki](https://github.com/lv2/lv2/wiki)
-- ❓ Ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, festival work, dancing 
-- ✊ Aiming to divest my life of proprietory systems (e.g. avoiding Discord)
-- ✨ Waiting for the postpost [Matrix](https://matrix.org)/[Fediverse](https://fediverse.party/)/[BlueSky](https://atproto.com/)/[SOLID](https://atproto.com) Web 3.0 comms rerevolution
-- ☁️ Dreaming about lefty/radical organisational praxis
-    - Post-scarcity Anarchism
-    - Consensus w/ good facilitation
+- 🖼️ and working on a [deere-redo theme](https://github.com/mxmilkiib/deere-redo) for Mixxx
+    - a 24-hotcue Deere UI revision/hack
+- 👣 working towards an "inverted DAW", combining DJing, live performance, studio production quality, w/ A/V
+    - have we reached the year of the Libre Audio Workstation? 90% there, nother 90% to go
+    - [Free Libre Open Source Software](https://wiki.snowdrift.coop/about/free-libre-open) based
+    - modular, [DAW-less](https://medium.com/@DamionAndy/my-journey-into-dawless-music-production-gear-workflow-why-it-matters-9e549defac8a) (depending on need)
+    - [Seq66](https://github.com/ahlstromcj/seq66) - looping MIDI pattern/clip sequencer w/ grid interface
+    - [JACK/LV2 CV](https://linuxmusicians.com/viewtopic.php?f=1&t=20701) - audio/MIDI graph routing, modular/semi-modular synthesis
+    - [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/wikis/home) - the underlying sound system (which emulates JACK)
+    - [NSM](https://new-session-manager.jackaudio.org) - New (nee Non) Session Manager, particepating client state saving for session restore
+    - [Ableton Link](https://ableton.github.io/link) - sync networked clients, next gen [timebase/transport](https://jackaudio.org/api/transport-design.html)
+    - OSC, [OCSQuery](https://github.com/Vidvox/OSCQueryProposal), DMX
+- 🤔 suggesting [DPF](https://github.com/DISTRHO/DPF) as a plugin framework for developers
+- 💭 remembering the [JACK wiki](https://github.com/jackaudio/jackaudio.github.com/wiki) n [LV2 wiki](https://github.com/lv2/lv2/wiki)
+- ❓ could try ask me about JACK/LV2 CV, free/open source Linux music apps/plugins, festival work, dancing 
+- ✊ aiming to divest my life of proprietory systems (e.g. avoiding Discord)
+- ✨ waiting for the authentic postpost, for reds to become green n finally integrate it, not reactionaraly disparaging of it (perennial)
+    - [Matrix](https://matrix.org)
+    - [Fediverse](https://fediverse.party/)
+    - [BlueSky](https://atproto.com/)
+    - [SOLID](https://atproto.com)
+    - other Web 3.0 comms rerevolution
+- ☁️ dreaming about lefty/radical organisational praxis
+    - [Post-scarcity Anarchism](https://theanarchistlibrary.org/library/murray-bookchin-post-scarcity-anarchism-book), [Murray Bookchin](https://nybooks.com/online/2018/06/15/how-my-fathers-ideas-helped-the-kurds-create-a-new-democracy)
+    - Consensus w/ good [facilitation](https://www.seedsforchange.org.uk/facilitation), [Seeds for Change](https://www.seedsforchange.org.uk)
     - Radical transparency
-- 😄 Pronouns: they/them
-    - don't force a gender on me, cheers 
-- 📫 How to reach me: idk
-- ⚡ Possibly get Signal app?
-- ✊ google Murray Bookchin
+- 😄 like, philosophy
+    - pronouns: they/them (am an emby)
+    - I'm not into other people making up a gender for me
+    - I choose my own conditioning, metaphor, behaviour, body, magick, shit
+    - nvc, radical honesty (heart on sleeve), early Buddhist texts, non-dualism, stoicism, ethical hedonism, post-Cartesian, humanism, eco-phenomenology, process, relational, 4/5E, post-post-lol-structuralism, a vauge form of [Bayesianism reasoning](https://www.lesswrong.com/posts/XCwPQzoe9hmQikMiY/bayesianism-for-humans), things n stuff that record and transmit ways for humans to understand and be happy, together or apart
+- 📫 how to reach me: idk
+- ⚡ possibly get Signal app? Progress/transform/process some way?
+- ✊ "google Murray Bookchin"
